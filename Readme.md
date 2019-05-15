@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Эдуард Садрутдинов](https://up.htmlacademy.ru/react/1/user/582723).
-* Наставник: [Владимир Федин](https://htmlacademy.ru/profile/id1056177).
+* Наставник: `Неизвестно`.
 
 ---
 
